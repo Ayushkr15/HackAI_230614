@@ -7,7 +7,6 @@ TAAPMAN API.
 Taapman is the derived from the English word "Temperature". Taapman Api is a temperature monitoring and analysis tool designed to provide real-time temperature data and analytics. This powerful API offers the ability to integrate temperature monitoring capabilities seamlessly into the systems, applications, or devices and alerts if the temperature exceeds below or above the mentioned one.
 
 # Input Parameters:
-
 The Taapman API the requests for several input parameters that can be listed as under:
 
 1. City:
@@ -40,6 +39,9 @@ The Taapman API magnificiently returns the following outputs some of which are l
 - download the files and run the main.py file
 - make sure you have enabled poetry 
 
+# API used
+### 1. [weather API](https://www.weatherapi.com/docs/#apis-forecast) - use for gathering weather data
+### 2. [Pushbullet API](https://www.pushbullet.com/) - use to send alerts to the users
 
 # Alert / Notification to the user
 ![file_2023-10-07_20 02 43](https://github.com/Ayushkr15/weatherAgent/assets/88913986/10321549-fb4e-49ae-9794-1f846edd541c)
