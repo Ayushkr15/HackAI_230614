@@ -43,7 +43,13 @@ The Taapman API magnificiently returns the following outputs some of which are l
 ### 1. [weather API](https://www.weatherapi.com/docs/#apis-forecast) - use for gathering weather data
 ### 2. [Pushbullet API](https://www.pushbullet.com/) - use to send alerts to the users
 
-# Alert / Notification to the user
+# **OUTPUT**
+
+## Agent output
+![output](https://github.com/Ayushkr15/weatherAgent/assets/88913986/8c2483a3-33d2-4a04-b342-279bcdceb571)
+
+
+## Alert / Notification to the user
 ![file_2023-10-07_20 02 43](https://github.com/Ayushkr15/weatherAgent/assets/88913986/10321549-fb4e-49ae-9794-1f846edd541c)
 
 
