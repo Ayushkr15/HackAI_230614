@@ -45,13 +45,12 @@ The Taapman API magnificiently returns the following outputs some of which are l
 
 # **OUTPUT**
 
-## Agent output
-![output](https://github.com/Ayushkr15/weatherAgent/assets/88913986/8c2483a3-33d2-4a04-b342-279bcdceb571)
+- ## Agent output
+![agentOutput](https://github.com/Ayushkr15/HackAI_230614/assets/88913986/81247d67-7f38-40b4-ad99-e981d7833d21)
 
 
-## Alert / Notification to the user
-![file_2023-10-07_20 02 43](https://github.com/Ayushkr15/weatherAgent/assets/88913986/10321549-fb4e-49ae-9794-1f846edd541c)
-
+ - ## Alert / Notification to the user
+![Altert](https://github.com/Ayushkr15/HackAI_230614/assets/88913986/58b9a53b-f3e7-49cd-917b-cac5f4177ec7)
 
 https://github.com/Ayushkr15/weatherAgent/assets/88913986/deac88f4-a6fb-4b2f-9f1b-fda6259d5448
 
